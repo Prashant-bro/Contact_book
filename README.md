@@ -67,6 +67,5 @@ pip install mysql-connector-python
 ## Contributing
 Feel free to fork this repository and contribute to the project!
 
-## License
-This project is open-source and available under the MIT License.
+
 
